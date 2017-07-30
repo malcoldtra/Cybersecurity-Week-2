@@ -27,11 +27,11 @@ The following **required** functionality is completed:
 
 The following advanced user stories are optional:
 
-* []  Bonus 1: SQL Injection 4
-* []  Bonus 2: SQL Injection 5
-* []  Bonus 3: SQL Injection Stored Procedure
-* []  Bonus 4: SQL Injection 6
-* []  Bonus 5: SQL Injection 7
+* [ ]  Bonus 1: SQL Injection 4
+* [ ]  Bonus 2: SQL Injection 5
+* [ ]  Bonus 3: SQL Injection Stored Procedure
+* [ ]  Bonus 4: SQL Injection 6
+* [ ]  Bonus 5: SQL Injection 7
 
 ## Video Walkthrough
 
