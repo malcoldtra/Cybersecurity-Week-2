@@ -49,6 +49,8 @@ This lab was quite difficult for me mostly because I don't have much past experi
 
 Setup instructions can be found on the Week 2 Lab page.
 
+This lab only makes use of Security Shepard. No other applications are required.
+
 ## License
 
     Copyright [2017] [Ana Malhotra]
